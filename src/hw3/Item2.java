@@ -27,6 +27,7 @@ public class Item2 {
 			}
 		}
 		Sc.close();
+		
 		// ==================進階題目====================//
 //		int Random;
 //		Random = (int) (Math.random() * 100);
