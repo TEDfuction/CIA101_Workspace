@@ -24,6 +24,7 @@ public class Item3 {
 			count++;
 		}
 		System.out.println("總共有" + count + "個數字可選");
+		
 
 		// ==================進階題目====================//
 

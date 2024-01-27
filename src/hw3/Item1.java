@@ -27,7 +27,7 @@ public class Item1 {
 			} else if (Math.pow(Side1, 2) + Math.pow(Side2, 2) == Math.pow(Side3, 2)
 					|| Math.pow(Side1, 2) + Math.pow(Side3, 2) == Math.pow(Side2, 2)
 					|| Math.pow(Side2, 2) + Math.pow(Side3, 2) == Math.pow(Side1, 2)) {
-				System.out.println("直角三角形"); // 加入直角三角形的判斷
+				System.out.println("直角三角形"); // 加入直角三角形公式的判斷
 
 			} else if (Side1 + Side2 > Side3 && Side2 + Side3 > Side1 && Side1 + Side3 > Side2) {
 				System.out.println("其他三角形");
