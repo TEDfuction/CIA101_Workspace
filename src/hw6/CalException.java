@@ -1,6 +1,7 @@
 package hw6;
 
 public class CalException extends Exception {
+	private static final long serialVersionUID = 1L;
 	//無參數建構子，呼叫父類別的無參數建構子。
 	public CalException() {
 		super();
